@@ -58,7 +58,7 @@ body {
 /*=============================*/
 
 .jumbotron {
-  background-image: url({{ site.url }}/images/header-bg.jpg);
+  background-image: url({{ site.url }}/images/periwinkle-color-solid-background-1920x1080.png);
   font-family: 'Fredoka One', cursive;
 }
 
@@ -140,3 +140,4 @@ body {
   max-width: 700px;
   margin-left: auto;
 }
+
