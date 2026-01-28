@@ -3,7 +3,7 @@ body {
   font-size: 15px;
   color: #424142;
   padding-top: 20px;
-  background-image: url("/images/grid.png");
+  background-image: url("/images/brown_grid.jpg");
   background-color: gray;
 }
 
@@ -128,3 +128,4 @@ body {
   max-width: 700px;
   margin-left: auto;
 }
+
