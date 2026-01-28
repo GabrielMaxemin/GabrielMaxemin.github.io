@@ -13,22 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your Comic Title
-tab_title: Your Comic! #This text shows up on the browser tab
-email:
-description: Here's the description of your comic!
-url: "https://peahatlanding.github.io/Plain-Webcomic/" # the base hostname & protocol for your site
-
-# Comic Social Media
-twitter_username: http://twitter.com/peahat
-tumblr_username: http://peahat.tumblr.com
-patreon_username: peahat
-
-# Author Social Media
-author_twitter_username:
-author_tumblr_username:
-author_patreon_username:
-
+title: Gabriel Maxemin
+tab_title: Gabriel Maxemin #This text shows up on the browser tab
+email: gabriel.maxemin@gmail.com
+description: Gabriel Maxemin personal website
+url: "https://GabrielMaxemin.github.io" # the base hostname & protocol for your site
 
 
 # Build settings
