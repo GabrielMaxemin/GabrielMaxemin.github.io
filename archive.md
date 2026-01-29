@@ -1,16 +1,44 @@
 ---
 layout: default
-title: About
+title: teaching
 permalink: /archive
 ---
-# Archive
 
-<ul class="post-list archive-ul">
-  {% for post in site.categories.page %}
-    <li class="archive-li">
-      <h2>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </h2>
-    </li>
-  {% endfor %}
-</ul>
+# teaching
+<br />
+
+## university level
+
+<br />
+
+<div style="padding: 0 24px;">
+  <div class="teaching">
+    <div class="teaching">
+      <div><strong>Vice-Chancellor’s Colloquium on Climate Facilitator</strong></div>
+      <div>OXFORD LIFELONG LEARNING, UNIVERSITY OF OXFORD</div>
+      <div>Dec 2025  – Present</div>
+      <a href="https://doi.org/10.1039/d5ra08546b">https://doi.org/10.1039/d5ra08546b</a>.
+    </div>
+  </div>
+</div>
+
+<br />
+
+<div style="padding: 0 24px;">
+  <div class="teaching">
+    <div class="teaching">
+      <div><strong>Head Teaching Fellow</strong></div>
+      <div>HARVARD UNIVERSITY (DEPARTMENT OF PHYSICS) </div>
+      <div>Aug 2022 – May 2024</div>
+      <div>Fall Course: PHYSCI 2: Mechanics, Elasticity, Fluids, and Diffusion</div>
+      <div>Spring Course: PHYSCI 3: Electromagnetism, Circuits, Waves, Optics, and Imaging</div>
+      <div>Instructors: Greg Kestin, Melissa Franklin, Anna Klales, Timothy Milbourne, Stephen J. Adams</div>
+    </div>
+  </div>
+</div>
+
+<br />
+
+## external
+
+
