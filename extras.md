@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Publications
-permalink: /extras
+permalink: /publications
 ---
 
 # publications
