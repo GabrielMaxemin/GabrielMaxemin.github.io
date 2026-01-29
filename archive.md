@@ -17,7 +17,6 @@ permalink: /archive
       <div><strong>Vice-Chancellor’s Colloquium on Climate Facilitator</strong></div>
       <div>OXFORD LIFELONG LEARNING, UNIVERSITY OF OXFORD</div>
       <div>Dec 2025  – Present</div>
-      <a href="https://doi.org/10.1039/d5ra08546b">https://doi.org/10.1039/d5ra08546b</a>.
     </div>
   </div>
 </div>
