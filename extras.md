@@ -56,10 +56,18 @@ permalink: /extras
 <div style="padding: 0 24px;">
   <div class="publications">
     <div class="publication">
-      **Maxemin, G.**, N. Balasus, D.J. Jacob (2024).
+      <strong>Maxemin, G.</strong>, N. Balasus, D.J. Jacob (2024).
       Quantifying US landfill methane emissions using TROPOMI+GOSAT satellite data (Senior Thesis).
       Harvard University, Department of Earth and Planetary Sciences,
       <a href="pdfs/maxemin_senior_thesis.pdf">PDF</a>.
+    </div>
+  </div>
+  <br />
+  <div class="publications">
+    <div class="publication">
+      <strong>Maxemin, G.</strong>, R. Fu, S. Steele, H. Fu (2022).
+      What the Murchison meteorite reveals about magnetic fields in the solar system’s protoplanetary disk formation (Junior Thesis).
+      Harvard University, Department of Astronomy.
     </div>
   </div>
 </div>
