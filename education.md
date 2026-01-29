@@ -6,7 +6,7 @@ permalink: /education
 
 
 <div style="display: flex; align-items: center; gap: 16px;">
-  <img src="images/oxford.png" alt="UNIVERSITY OF OXFORD Logo" width="12" />
+  <img src="images/oxford.png" alt="UNIVERSITY OF OXFORD Logo" width="12px" />
   <div>
     <strong>UNIVERSITY OF OXFORD</strong><br />
     [Oct 2025 – Present]
@@ -21,7 +21,7 @@ permalink: /education
 
 
 <div style="display: flex; align-items: center; gap: 16px;">
-  <img src="images/harvard.png" alt="HARVARD UNIVERSITY Logo" width="12" />
+  <img src="images/harvard.png" alt="HARVARD UNIVERSITY Logo" width="12px" />
   <div>
     <strong>HARVARD UNIVERSITY</strong><br />
     [2020 - 2024]
