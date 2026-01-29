@@ -4,7 +4,7 @@ title: Publications
 permalink: /extras
 ---
 
-# Publications
+# publications
 <br />
 
 ---
