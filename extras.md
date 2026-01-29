@@ -73,3 +73,19 @@ permalink: /extras
 </div>
 
 <br />
+
+## Abstracts
+<br />
+
+<div style="padding: 0 24px;">
+  <div class="publications">
+    <div class="publication">
+      <strong>Maxemin, G.</strong>, R. Fu (2022).
+      Magnetic mapping of iron oxides in the human brain using the quantum diamond microscope.
+      In HSURV Abstracts (Environmental Sciences chapter). Harvard University,
+       <a href="pdfs/hsurv_2022_abstracts.pdf">PDF</a>.
+    </div>
+  </div>
+</div>
+
+<br />
