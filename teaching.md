@@ -1,7 +1,7 @@
 ---
 layout: default
 title: teaching
-permalink: /archive
+permalink: /teaching
 ---
 
 # teaching
