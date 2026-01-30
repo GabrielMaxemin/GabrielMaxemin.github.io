@@ -1,82 +1,232 @@
 ---
 layout: default
-title: teaching
-permalink: /teaching
+title: honors
+permalink: /honors
 ---
 
-# teaching
+# honors
 <br />
 
-## university
+## Clarendon Scholar
 
 <br />
 
 <div style="padding: 0 24px;">
-  <div class="teaching">
-    <div class="teaching">
-      <div><strong>Colloquium Facilitator</strong></div>
-      <div>University of Oxford, Oxford Lifelong Learning</div>
-      <div>Dec 2025  – Present</div>
-      <div>Vice-Chancellor’s Colloquium on Climate</div>
+  <div class="honors">
+    <div class="honors">
+      <div>2025 - Present</div>
     </div>
   </div>
 </div>
 
 <br />
 
+## Wolfson College Tim & Elaine Rolph Scholarship in Climate Change
+
+<br />
+
 <div style="padding: 0 24px;">
-  <div class="teaching">
-    <div class="teaching">
-      <div><strong>Head Teaching Fellow</strong></div>
-      <div>Harvard University, Department of Physics</div>
-      <div>Aug 2022 – May 2024</div>
-      <div>Fall Course: PHYSCI 2: Mechanics, Elasticity, Fluids, and Diffusion</div>
-      <div>Spring Course: PHYSCI 3: Electromagnetism, Circuits, Waves, Optics, and Imaging</div>
-      <div>Instructors: Greg Kestin, Melissa Franklin, Anna Klales, Timothy Milbourne, Stephen J. Adams</div>
+  <div class="honors">
+    <div class="honors">
+      <div>2025 - Present</div>
     </div>
   </div>
 </div>
 
 <br />
 
-## external
+## Thalmann Fund
 
 <br />
 
 <div style="padding: 0 24px;">
-  <div class="teaching">
-    <div class="teaching">
-      <div><strong>Computer Science + Language Arts Instructor</strong></div>
-      <div>Summer In Japan</div>
-      <div>Aug 2024 & Aug 2025</div>
+  <div class="honors">
+    <div class="honors">
+      <div>2025 - Present</div>
     </div>
   </div>
 </div>
 
 <br />
 
+## Harvard Cum Laude in Field, College Honors
+
+<br />
+
 <div style="padding: 0 24px;">
-  <div class="teaching">
-    <div class="teaching">
-      <div><strong>Math Instructor</strong></div>
-      <div>Lever Tutoring</div>
-      <div>Sep 2024 – July 2025</div>
+  <div class="honors">
+    <div class="honors">
+      <div>2024</div>
     </div>
   </div>
 </div>
 
 <br />
 
+## Harvard Recommendation for Highest Honors, Departmental Honors
+
+<br />
+
 <div style="padding: 0 24px;">
-  <div class="teaching">
-    <div class="teaching">
-      <div><strong>English Language Tutor</strong></div>
-      <div>Ringle</div>
-      <div>Aug – Dec 2024</div>
+  <div class="honors">
+    <div class="honors">
+      <div>2024</div>
     </div>
   </div>
 </div>
 
 <br />
 
+## David Rockefeller Center for Latin American Studies Winternship Grant
 
+<br />
+
+<div style="padding: 0 24px;">
+  <div class="honors">
+    <div class="honors">
+      <div>2024</div>
+    </div>
+  </div>
+</div>
+
+<br />
+
+## Weissman International Internship Program Grant
+
+<br />
+
+<div style="padding: 0 24px;">
+  <div class="honors">
+    <div class="honors">
+      <div>2023</div>
+    </div>
+  </div>
+</div>
+
+<br />
+
+## Program for Research in Science and Engineering (PRISE) Research Fellowship
+
+<br />
+
+<div style="padding: 0 24px;">
+  <div class="honors">
+    <div class="honors">
+      <div>2022</div>
+    </div>
+  </div>
+</div>
+
+<br />
+
+## Harvard University Center for the Environment Undergraduate Summer Research Fund Grant
+
+<br />
+
+<div style="padding: 0 24px;">
+  <div class="honors">
+    <div class="honors">
+      <div>2021</div>
+    </div>
+  </div>
+</div>
+
+<br />
+
+## Harvard College Research Program Scholar
+
+<br />
+
+<div style="padding: 0 24px;">
+  <div class="honors">
+    <div class="honors">
+      <div>2021</div>
+    </div>
+  </div>
+</div>
+
+<br />
+
+## John Harvard Scholar
+
+<br />
+
+<div style="padding: 0 24px;">
+  <div class="honors">
+    <div class="honors">
+      <div>2021</div>
+    </div>
+  </div>
+</div>
+
+<br />
+
+## Hispanic Scholarship Fund Scholar
+
+<br />
+
+<div style="padding: 0 24px;">
+  <div class="honors">
+    <div class="honors">
+      <div>2020 - 2024</div>
+    </div>
+  </div>
+</div>
+
+<br />
+
+## Douglas High School Valedictorian
+
+<br />
+
+<div style="padding: 0 24px;">
+  <div class="honors">
+    <div class="honors">
+      <div>2020</div>
+    </div>
+  </div>
+</div>
+
+<br />
+
+## National Hispanic Recognition Scholar
+
+<br />
+
+<div style="padding: 0 24px;">
+  <div class="honors">
+    <div class="honors">
+      <div>2020</div>
+    </div>
+  </div>
+</div>
+
+<br />
+
+## Carson Scholar
+
+<br />
+
+<div style="padding: 0 24px;">
+  <div class="honors">
+    <div class="honors">
+      <div>2019</div>
+    </div>
+  </div>
+</div>
+
+<br />
+
+## Bausch + Lomb Honorary Science Award
+
+<br />
+
+<div style="padding: 0 24px;">
+  <div class="honors">
+    <div class="honors">
+      <div>2019</div>
+    </div>
+  </div>
+</div>
+
+<br />
