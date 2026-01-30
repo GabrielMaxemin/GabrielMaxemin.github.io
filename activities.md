@@ -23,7 +23,7 @@ permalink: /activities
 
 <br />
 
-## Atmospheric, Oceanic, and Planetary Physics
+## Atmospheric,&nbsp;Oceanic,&nbsp;and&nbsp;Planetary Physics
 
 <br />
 
