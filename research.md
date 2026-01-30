@@ -7,7 +7,9 @@ permalink: /research
 # research
 <br />
 
-## Earth Observation Data Group
+<h2>
+  <a href="https://eodg.atm.ox.ac.uk/eodg/" class="title-link">Earth Observation Data Group</a>
+</h2>
 
 <br />
 
