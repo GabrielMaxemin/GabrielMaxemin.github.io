@@ -6,6 +6,7 @@ permalink: /honors
 
 # honors
 <br />
+--
 
 ## Clarendon Scholar
 
