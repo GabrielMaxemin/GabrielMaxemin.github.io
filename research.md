@@ -1,82 +1,147 @@
 ---
 layout: default
-title: teaching
-permalink: /teaching
+title: research
+permalink: /research
 ---
 
-# teaching
+# research
 <br />
 
-## university
+## Earth Observation Data Group
 
 <br />
 
 <div style="padding: 0 24px;">
-  <div class="teaching">
-    <div class="teaching">
-      <div><strong>Colloquium Facilitator</strong></div>
-      <div>University of Oxford, Oxford Lifelong Learning</div>
-      <div>Dec 2025  – Present</div>
-      <div>Vice-Chancellor’s Colloquium on Climate</div>
+  <div class="research">
+    <div class="research">
+      <div>University of Oxford</div>
+      <div>Oct 2025  – Present</div>
+      <div>DPhil Student</div>
+      <div>Supervisors: Anu Dudhia, Don Grainger</div>
+      <div>Topics: remote sensing, biomass burning, climate physics</div>
     </div>
   </div>
 </div>
 
 <br />
 
+## Carbon Mapper
+
+<br />
+
 <div style="padding: 0 24px;">
-  <div class="teaching">
-    <div class="teaching">
-      <div><strong>Head Teaching Fellow</strong></div>
-      <div>Harvard University, Department of Physics</div>
-      <div>Aug 2022 – May 2024</div>
-      <div>Fall Course: PHYSCI 2: Mechanics, Elasticity, Fluids, and Diffusion</div>
-      <div>Spring Course: PHYSCI 3: Electromagnetism, Circuits, Waves, Optics, and Imaging</div>
-      <div>Instructors: Greg Kestin, Melissa Franklin, Anna Klales, Timothy Milbourne, Stephen J. Adams</div>
+  <div class="research">
+    <div class="research">
+      <div>Jan – July 2025</div>
+      <div>Methane Research Intern</div>
+      <div>Supervisors: Tia Scarpelli, Daniel Cusworth </div>
+      <div>Topics: methane, landfill emissions, machine learning</div>
     </div>
   </div>
 </div>
 
 <br />
 
-## external
+## Elani Lab
 
 <br />
 
 <div style="padding: 0 24px;">
-  <div class="teaching">
-    <div class="teaching">
-      <div><strong>Computer Science + Language Arts Instructor</strong></div>
-      <div>Summer In Japan</div>
-      <div>Aug 2024 & Aug 2025</div>
+  <div class="research">
+    <div class="research">
+      <div>Harvard School of Dental Medicine</div>
+      <div>Jun 2024 – Feb 2025</div>
+      <div>Generative AI Research Intern</div>
+      <div>Supervisor: Hawazin Elani </div>
+      <div>Topics: algorithmic fairness, large language models, generative artificial intelligence</div>
+    </div>
+  </div>
+</div>
+
+## Atmospheric Chemistry Modeling Group
+
+<br />
+
+<div style="padding: 0 24px;">
+  <div class="research">
+    <div class="research">
+      <div>Harvard University</div>
+      <div>Aug 2023 – May 2024</div>
+      <div>Senior Thesis Researcher</div>
+      <div>Advisors: Daniel Jacob, Nicholas Balasus</div>
+      <div>Topics: methane, landfill emissions</div>
+    </div>
+  </div>
+</div>
+
+## Laboratoire de Météorologie Dynamique
+
+<br />
+
+<div style="padding: 0 24px;">
+  <div class="research">
+    <div class="research">
+      <div>École Normale Supérieure</div>
+      <div>Jun – July 2023</div>
+      <div>Research Intern</div>
+      <div>Supervisors: Benjamin Fildier, Rémy Roca</div>
+      <div>Topics: mesoscale convective systems, extreme precipitation</div>
+    </div>
+  </div>
+</div>
+
+## Harvard Paleomagnetics Lab
+
+<br />
+
+<div style="padding: 0 24px;">
+  <div class="research">
+    <div class="research">
+      <div>Harvard University</div>
+      <div>Aug 2022 – Apr 2023</div>
+      <div>Astrophysics Junior Thesis Researcher</div>
+      <div>PRISE Research Fellow</div>
+      <div>Supervisor: Roger Fu</div>
+      <div>Topics (1): magnetic dipole imaging, brain magnetite particles</div>
+      <div>Topics (2): Murchison meteorite, solar nebula magnetism</div>
     </div>
   </div>
 </div>
 
 <br />
 
+## Radcliffe Institute for Advanced Study
+
+<br />
+
 <div style="padding: 0 24px;">
-  <div class="teaching">
-    <div class="teaching">
-      <div><strong>Math Instructor</strong></div>
-      <div>Lever Tutoring</div>
-      <div>Sep 2024 – July 2025</div>
+  <div class="research">
+    <div class="research">
+      <div>Harvard University</div>
+      <div>Aug 2021 – May 2022</div>
+      <div>Radcliffe Research Partner</div>
+      <div>Supervisors: Joan Najita, Arjun Dey</div>
+      <div>Topics: Andromeda Galaxy, spectra classification, galaxy dynamics</div>
     </div>
   </div>
 </div>
 
 <br />
 
+## Anderson Research Group
+
+<br />
+
 <div style="padding: 0 24px;">
-  <div class="teaching">
-    <div class="teaching">
-      <div><strong>English Language Tutor</strong></div>
-      <div>Ringle</div>
-      <div>Aug – Dec 2024</div>
+  <div class="research">
+    <div class="research">
+      <div>Harvard University</div>
+      <div>May– Dec 2021</div>
+      <div>Undergraduate Research Fellow</div>
+      <div>Supervisors: James Anderson, Corey Clapp</div>
+      <div>Topics: water vapor, convection, overshooting tops</div>
     </div>
   </div>
 </div>
 
 <br />
-
-
