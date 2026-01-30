@@ -5,101 +5,84 @@ permalink: /honors
 ---
 
 # honors
-<br />
+</br>
 
+<p>
+  <strong>Clarendon Scholar</strong>
+  <span style="color: #6b7280;">(2025 – Present)</span>
+</p>
 
-## Clarendon Scholar <div>2025 - Present</div>
+<p>
+  <strong>Wolfson College Tim &amp; Elaine Rolph Scholarship in Climate Change</strong>
+  <span style="color: #6b7280;">(2025 – Present)</span>
+</p>
 
-<br />
+<p>
+  <strong>Thalmann Fund</strong>
+  <span style="color: #6b7280;">(2025 – Present)</span>
+</p>
 
---
+<p>
+  <strong>Harvard Cum Laude in Field, College Honors</strong>
+  <span style="color: #6b7280;">(2024)</span>
+</p>
 
-## Wolfson College Tim & Elaine Rolph Scholarship in Climate Change <div>2025 - Present</div>
+<p>
+  <strong>Harvard Recommendation for Highest Honors, Departmental Honors</strong>
+  <span style="color: #6b7280;">(2024)</span>
+</p>
 
-<br />
+<p>
+  <strong>David Rockefeller Center for Latin American Studies Winternship Grant</strong>
+  <span style="color: #6b7280;">(2024)</span>
+</p>
 
---
+<p>
+  <strong>Weissman International Internship Program Grant</strong>
+  <span style="color: #6b7280;">(2023)</span>
+</p>
 
-## Thalmann Fund <div>2025 - Present</div>
+<p>
+  <strong>Program for Research in Science and Engineering (PRISE) Research Fellowship</strong>
+  <span style="color: #6b7280;">(2022)</span>
+</p>
 
-<br />
+<p>
+  <strong>Harvard University Center for the Environment Undergraduate Summer Research Fund Grant</strong>
+  <span style="color: #6b7280;">(2021)</span>
+</p>
 
---
+<p>
+  <strong>Harvard College Research Program Scholar</strong>
+  <span style="color: #6b7280;">(2021)</span>
+</p>
 
-## Harvard Cum Laude in Field, College Honors <div>2024</div>
+<p>
+  <strong>John Harvard Scholar</strong>
+  <span style="color: #6b7280;">(2021)</span>
+</p>
 
-<br />
+<p>
+  <strong>Hispanic Scholarship Fund Scholar</strong>
+  <span style="color: #6b7280;">(2020 – 2024)</span>
+</p>
 
---
+<p>
+  <strong>Douglas High School Valedictorian</strong>
+  <span style="color: #6b7280;">(2020)</span>
+</p>
 
-## Harvard Recommendation for Highest Honors, Departmental Honors <div>2024</div>
+<p>
+  <strong>National Hispanic Recognition Scholar</strong>
+  <span style="color: #6b7280;">(2020)</span>
+</p>
 
-<br />
+<p>
+  <strong>Carson Scholar</strong>
+  <span style="color: #6b7280;">(2019)</span>
+</p>
 
---
-
-## David Rockefeller Center for Latin American Studies Winternship Grant <div>2024</div>
-
-<br />
-
---
-
-## Weissman International Internship Program Grant <div>2023</div>
-
-<br />
-
---
-
-## Program for Research in Science and Engineering (PRISE) Research Fellowship <div>2022</div>
-
-<br />
-
---
-
-## Harvard University Center for the Environment Undergraduate Summer Research Fund Grant <div>2021</div>
-
-<br />
-
---
- 
-## Harvard College Research Program Scholar <div>2021</div>
-
-<br />
-
---
-
-## John Harvard Scholar <div>2021</div>
-
-<br />
-
---
-
-## Hispanic Scholarship Fund Scholar <div>2020 - 2024</div>
-
-<br />
-
---
- 
-## Douglas High School Valedictorian <div>2020</div>
-
-<br />
-
---
-
-## National Hispanic Recognition Scholar <div>2020</div>
-
-<br />
-
---
-
-## Carson Scholar <div>2019</div>
-
-<br />
-
---
-
-## Bausch + Lomb Honorary Science Award <div>2019</div>
-
-<br />
-
---
+<p>
+  <strong>Bausch + Lomb Honorary Science Award</strong>
+  <span style="color: #6b7280;">(2019)</span>
+</p>
