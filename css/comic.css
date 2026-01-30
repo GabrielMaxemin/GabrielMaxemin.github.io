@@ -90,15 +90,15 @@ body {
 
 
 
-/* ARCHIVE STYLES */
+/* teaching STYLES */
 /*=============================*/
 
-.archive-li {
+.teaching-li {
     /* float: left; */
     display: block;
 }
 
-.archive-ul {
+.teaching-ul {
   margin: 0px;
   list-style: none;
 }
@@ -140,5 +140,6 @@ body {
   max-width: 700px;
   margin-left: auto;
 }
+
 
 
