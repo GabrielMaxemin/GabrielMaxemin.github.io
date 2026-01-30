@@ -5,7 +5,7 @@ permalink: /honors
 ---
 
 # honors
-</br>
+<br />
 
 <p>
   <strong>Clarendon Scholar</strong>
