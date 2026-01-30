@@ -1,10 +1,10 @@
 ---
 layout: default
-title: teaching
-permalink: /teaching
+title: outreach
+permalink: /outreach
 ---
 
-# teaching
+# outreach
 <br />
 
 ## university
