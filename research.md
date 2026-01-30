@@ -27,7 +27,9 @@ permalink: /research
 
 <br />
 
-## Carbon Mapper
+<h2>
+  <a href="https://carbonmapper.org/" class="title-link">Carbon Mapper</a>
+</h2>
 
 <br />
 
@@ -44,7 +46,9 @@ permalink: /research
 
 <br />
 
-## Elani Lab
+<h2>
+  <a href="https://www.hsdm.harvard.edu/" class="title-link">Elani Lab</a>
+</h2>
 
 <br />
 
@@ -62,7 +66,9 @@ permalink: /research
 
 <br />
 
-## Atmospheric Chemistry Modeling Group
+<h2>
+  <a href="https://acmg.seas.harvard.edu/" class="title-link">Atmospheric Chemistry Modeling Group</a>
+</h2>
 
 <br />
 
@@ -80,7 +86,9 @@ permalink: /research
 
 <br />
 
-## Laboratoire de Météorologie Dynamique
+<h2>
+  <a href="https://www.lmd.ipsl.fr/en/home-2/" class="title-link">Laboratoire de Météorologie Dynamique</a>
+</h2>
 
 <br />
 
@@ -98,7 +106,9 @@ permalink: /research
 
 <br />
 
-## Harvard Paleomagnetics Lab
+<h2>
+  <a href="https://paleomag.fas.harvard.edu/" class="title-link">Harvard Paleomagnetics Lab</a>
+</h2>
 
 <br />
 
@@ -118,7 +128,9 @@ permalink: /research
 
 <br />
 
-## Radcliffe Institute for Advanced Study
+<h2>
+  <a href="https://www.radcliffe.harvard.edu/" class="title-link">Radcliffe Institute for Advanced Study</a>
+</h2>
 
 <br />
 
@@ -136,7 +148,9 @@ permalink: /research
 
 <br />
 
-## Anderson Research Group
+<h2>
+  <a href="https://www.arp.harvard.edu/" class="title-link">Anderson Research Group</a>
+</h2>
 
 <br />
 
