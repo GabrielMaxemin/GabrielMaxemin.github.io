@@ -65,6 +65,8 @@ permalink: /archive
   </div>
 </div>
 
+<br />
+
 <div style="padding: 0 24px;">
   <div class="teaching">
     <div class="teaching">
