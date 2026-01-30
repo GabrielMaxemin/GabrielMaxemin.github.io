@@ -7,7 +7,7 @@ permalink: /archive
 # teaching
 <br />
 
-## university level
+## university
 
 <br />
 
@@ -40,5 +40,41 @@ permalink: /archive
 <br />
 
 ## external
+
+<br />
+
+<div style="padding: 0 24px;">
+  <div class="teaching">
+    <div class="teaching">
+      <div><strong>Computer Science + Language Arts Instructor</strong></div>
+      <div>Summer In Japan</div>
+      <div>Aug 2024 & Aug 2025</div>
+    </div>
+  </div>
+</div>
+
+<br />
+
+<div style="padding: 0 24px;">
+  <div class="teaching">
+    <div class="teaching">
+      <div><strong>Math Instructor</strong></div>
+      <div>Lever Tutoring</div>
+      <div>Sep 2024 – July 2025</div>
+    </div>
+  </div>
+</div>
+
+<div style="padding: 0 24px;">
+  <div class="teaching">
+    <div class="teaching">
+      <div><strong>English Language Tutor</strong></div>
+      <div>Ringle</div>
+      <div>Aug – Dec 2024</div>
+    </div>
+  </div>
+</div>
+
+<br />
 
 
