@@ -58,6 +58,8 @@ permalink: /research
   </div>
 </div>
 
+<br />
+
 ## Atmospheric Chemistry Modeling Group
 
 <br />
@@ -74,6 +76,8 @@ permalink: /research
   </div>
 </div>
 
+<br />
+
 ## Laboratoire de Météorologie Dynamique
 
 <br />
@@ -89,6 +93,8 @@ permalink: /research
     </div>
   </div>
 </div>
+
+<br />
 
 ## Harvard Paleomagnetics Lab
 
