@@ -6,244 +6,100 @@ permalink: /honors
 
 # honors
 <br />
+
+
+## Clarendon Scholar <div>2025 - Present</div>
+
+<br />
+
 --
 
-## Clarendon Scholar
+## Wolfson College Tim & Elaine Rolph Scholarship in Climate Change <div>2025 - Present</div>
 
 <br />
 
-<div style="padding: 0 24px;">
-  <div class="honors">
-    <div class="honors">
-      <div>2025 - Present</div>
-    </div>
-  </div>
-</div>
-
-<br />
 --
 
-## Wolfson College Tim & Elaine Rolph Scholarship in Climate Change
+## Thalmann Fund <div>2025 - Present</div>
 
 <br />
 
-<div style="padding: 0 24px;">
-  <div class="honors">
-    <div class="honors">
-      <div>2025 - Present</div>
-    </div>
-  </div>
-</div>
-
-<br />
 --
 
-## Thalmann Fund
+## Harvard Cum Laude in Field, College Honors <div>2024</div>
 
 <br />
 
-<div style="padding: 0 24px;">
-  <div class="honors">
-    <div class="honors">
-      <div>2025 - Present</div>
-    </div>
-  </div>
-</div>
-
-<br />
 --
 
-## Harvard Cum Laude in Field, College Honors
+## Harvard Recommendation for Highest Honors, Departmental Honors <div>2024</div>
 
 <br />
 
-<div style="padding: 0 24px;">
-  <div class="honors">
-    <div class="honors">
-      <div>2024</div>
-    </div>
-  </div>
-</div>
-
-<br />
 --
 
-## Harvard Recommendation for Highest Honors, Departmental Honors
+## David Rockefeller Center for Latin American Studies Winternship Grant <div>2024</div>
 
 <br />
 
-<div style="padding: 0 24px;">
-  <div class="honors">
-    <div class="honors">
-      <div>2024</div>
-    </div>
-  </div>
-</div>
-
-<br />
 --
 
-## David Rockefeller Center for Latin American Studies Winternship Grant
+## Weissman International Internship Program Grant <div>2023</div>
 
 <br />
 
-<div style="padding: 0 24px;">
-  <div class="honors">
-    <div class="honors">
-      <div>2024</div>
-    </div>
-  </div>
-</div>
-
-<br />
 --
 
-## Weissman International Internship Program Grant
+## Program for Research in Science and Engineering (PRISE) Research Fellowship <div>2022</div>
 
 <br />
 
-<div style="padding: 0 24px;">
-  <div class="honors">
-    <div class="honors">
-      <div>2023</div>
-    </div>
-  </div>
-</div>
-
-<br />
 --
 
-## Program for Research in Science and Engineering (PRISE) Research Fellowship
+## Harvard University Center for the Environment Undergraduate Summer Research Fund Grant <div>2021</div>
 
 <br />
 
-<div style="padding: 0 24px;">
-  <div class="honors">
-    <div class="honors">
-      <div>2022</div>
-    </div>
-  </div>
-</div>
+--
+ 
+## Harvard College Research Program Scholar <div>2021</div>
 
 <br />
+
 --
 
-## Harvard University Center for the Environment Undergraduate Summer Research Fund Grant
+## John Harvard Scholar <div>2021</div>
 
 <br />
 
-<div style="padding: 0 24px;">
-  <div class="honors">
-    <div class="honors">
-      <div>2021</div>
-    </div>
-  </div>
-</div>
-
-<br />
 --
 
-## Harvard College Research Program Scholar
+## Hispanic Scholarship Fund Scholar <div>2020 - 2024</div>
 
 <br />
 
-<div style="padding: 0 24px;">
-  <div class="honors">
-    <div class="honors">
-      <div>2021</div>
-    </div>
-  </div>
-</div>
+--
+ 
+## Douglas High School Valedictorian <div>2020</div>
 
 <br />
+
 --
 
-## John Harvard Scholar
+## National Hispanic Recognition Scholar <div>2020</div>
 
 <br />
 
-<div style="padding: 0 24px;">
-  <div class="honors">
-    <div class="honors">
-      <div>2021</div>
-    </div>
-  </div>
-</div>
-
-<br />
 --
 
-## Hispanic Scholarship Fund Scholar
+## Carson Scholar <div>2019</div>
 
 <br />
 
-<div style="padding: 0 24px;">
-  <div class="honors">
-    <div class="honors">
-      <div>2020 - 2024</div>
-    </div>
-  </div>
-</div>
-
-<br />
 --
 
-## Douglas High School Valedictorian
+## Bausch + Lomb Honorary Science Award <div>2019</div>
 
 <br />
 
-<div style="padding: 0 24px;">
-  <div class="honors">
-    <div class="honors">
-      <div>2020</div>
-    </div>
-  </div>
-</div>
-
-<br />
 --
-
-## National Hispanic Recognition Scholar
-
-<br />
-
-<div style="padding: 0 24px;">
-  <div class="honors">
-    <div class="honors">
-      <div>2020</div>
-    </div>
-  </div>
-</div>
-
-<br />
---
-
-## Carson Scholar
-
-<br />
-
-<div style="padding: 0 24px;">
-  <div class="honors">
-    <div class="honors">
-      <div>2019</div>
-    </div>
-  </div>
-</div>
-
-<br />
---
-
-## Bausch + Lomb Honorary Science Award
-
-<br />
-
-<div style="padding: 0 24px;">
-  <div class="honors">
-    <div class="honors">
-      <div>2019</div>
-    </div>
-  </div>
-</div>
-
-<br />
-
