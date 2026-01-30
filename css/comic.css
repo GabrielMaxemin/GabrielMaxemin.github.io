@@ -142,4 +142,20 @@ body {
 }
 
 
+/* RESEARCH PAGE STYLES */
+/*=============================*/
+.title-link {
+  color: inherit;        /* uses the heading’s color */
+  text-decoration: none; /* removes underline */
+}
+
+.title-link:visited {
+  color: inherit;        /* prevents purple */
+}
+
+.title-link:hover {
+  text-decoration: underline; /* optional: show it’s clickable */
+}
+
+
 
