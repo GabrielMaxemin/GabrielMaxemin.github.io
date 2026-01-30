@@ -37,6 +37,8 @@ permalink: /activities
   </div>
 </div>
 
+<br />
+
 ## DHS College Workshop
 
 <br />
