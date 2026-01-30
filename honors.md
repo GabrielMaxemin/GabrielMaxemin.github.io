@@ -20,6 +20,7 @@ permalink: /honors
 </div>
 
 <br />
+--
 
 ## Wolfson College Tim & Elaine Rolph Scholarship in Climate Change
 
@@ -34,6 +35,7 @@ permalink: /honors
 </div>
 
 <br />
+--
 
 ## Thalmann Fund
 
@@ -48,6 +50,7 @@ permalink: /honors
 </div>
 
 <br />
+--
 
 ## Harvard Cum Laude in Field, College Honors
 
@@ -62,6 +65,7 @@ permalink: /honors
 </div>
 
 <br />
+--
 
 ## Harvard Recommendation for Highest Honors, Departmental Honors
 
@@ -76,6 +80,7 @@ permalink: /honors
 </div>
 
 <br />
+--
 
 ## David Rockefeller Center for Latin American Studies Winternship Grant
 
@@ -90,6 +95,7 @@ permalink: /honors
 </div>
 
 <br />
+--
 
 ## Weissman International Internship Program Grant
 
@@ -104,6 +110,7 @@ permalink: /honors
 </div>
 
 <br />
+--
 
 ## Program for Research in Science and Engineering (PRISE) Research Fellowship
 
@@ -118,6 +125,7 @@ permalink: /honors
 </div>
 
 <br />
+--
 
 ## Harvard University Center for the Environment Undergraduate Summer Research Fund Grant
 
@@ -132,6 +140,7 @@ permalink: /honors
 </div>
 
 <br />
+--
 
 ## Harvard College Research Program Scholar
 
@@ -146,6 +155,7 @@ permalink: /honors
 </div>
 
 <br />
+--
 
 ## John Harvard Scholar
 
@@ -160,6 +170,7 @@ permalink: /honors
 </div>
 
 <br />
+--
 
 ## Hispanic Scholarship Fund Scholar
 
@@ -174,6 +185,7 @@ permalink: /honors
 </div>
 
 <br />
+--
 
 ## Douglas High School Valedictorian
 
@@ -188,6 +200,7 @@ permalink: /honors
 </div>
 
 <br />
+--
 
 ## National Hispanic Recognition Scholar
 
@@ -202,6 +215,7 @@ permalink: /honors
 </div>
 
 <br />
+--
 
 ## Carson Scholar
 
@@ -216,6 +230,7 @@ permalink: /honors
 </div>
 
 <br />
+--
 
 ## Bausch + Lomb Honorary Science Award
 
@@ -230,3 +245,4 @@ permalink: /honors
 </div>
 
 <br />
+
