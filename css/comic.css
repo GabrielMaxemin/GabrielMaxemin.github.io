@@ -7,7 +7,7 @@ body {
   font-size: 15px;
   color: #424142;
   padding-top: 20px;
-  background-image: url({{ site.url }}/images/blue_grid.jpg);
+  background-image: url({{ site.url }}/images/brown_grid.jpg);
   background-color: gray;
 }
 
@@ -156,6 +156,7 @@ body {
 .title-link:hover {
   text-decoration: underline; /* optional: show it’s clickable */
 }
+
 
 
 
