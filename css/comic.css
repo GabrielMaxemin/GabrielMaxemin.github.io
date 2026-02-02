@@ -5,7 +5,7 @@
 body {
   font-family: 'Droid Sans', sans-serif;
   font-size: 15px;
-  color: #424142;
+  color: #fae6fa;
   padding-top: 20px;
   background-image: url({{ site.url }}/images/purple_grid.jpg);
   background-color: gray;
@@ -156,6 +156,7 @@ body {
 .title-link:hover {
   text-decoration: underline; /* optional: show it’s clickable */
 }
+
 
 
 
