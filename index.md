@@ -1,6 +1,14 @@
 ---
 layout: default
-title: About
-permalink: /index.html
+title: Home
+permalink: /home.html
 ---
-# Welcome to my page 😁
+## welcome to my page 😁
+
+<br />
+<a href="mailto:gabrielmaxemin@gmail.com">email</a>
+<br />
+<a href="gabrielmaxemin@gmail.com)">linkedin</a>
+
+
+
