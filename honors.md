@@ -86,3 +86,4 @@ permalink: /honors
   <strong>Bausch + Lomb Honorary Science Award</strong>
   <span style="color: #6b7280;">(2019)</span>
 </p>
+<br />
