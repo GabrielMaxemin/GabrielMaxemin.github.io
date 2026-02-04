@@ -192,5 +192,6 @@ permalink: /publications
       Harvard Summer Undergraduate Research Village,
       Cambridge, MA.
     </div>
-  <br />
+  </div>
+</div>
 <br />
