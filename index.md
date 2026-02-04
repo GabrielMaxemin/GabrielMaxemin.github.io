@@ -8,7 +8,7 @@ permalink: /home.html
 <br />
 <a href="mailto:gabrielmaxemin@gmail.com">email</a>
 <br />
-<a href="gabrielmaxemin@gmail.com)">linkedin</a>
+<a href="https://www.linkedin.com/in/gabrielmaxemin/">linkedin</a>
 
 
 
