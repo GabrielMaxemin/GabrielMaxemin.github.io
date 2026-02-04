@@ -81,11 +81,11 @@ body {
 }
 
 .jumbotron a {
-  color: #424142;
+  color: #fae6fa;
 }
 
 .jumbotron a:visited {
-  color: #424142;
+  color: #fae6fa;
 }
 
 
@@ -156,6 +156,7 @@ body {
 .title-link:hover {
   text-decoration: underline; /* optional: show it’s clickable */
 }
+
 
 
 
