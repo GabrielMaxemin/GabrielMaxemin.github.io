@@ -90,3 +90,107 @@ permalink: /publications
 </div>
 
 <br />
+
+## Presentations
+<br />
+
+<div style="padding: 0 24px;">
+  <div class="publications">
+    <div class="publication">
+      Scarpelli, T.R., <strong>G. Maxemin</strong>, D.H. Cusworth, R. Duren, D. Bon, J. Kim, and R. Wang (2025).
+      Improving source attribution within national to regional methane budgets using facility-level data and hyperspectral imaging spectrometers (Poster).
+      AGU Annual Meeting,
+      New Orleans, LA.
+    </div>
+  <br />
+<div style="padding: 0 24px;">
+  <div class="publications">
+    <div class="publication">
+      Vasquez, Xavier, H. Shen, <strong>G. Maxemin</strong>, H. Kidanemariam, and Elani H.W. (2025).
+      Algorithmic Fairness in Large Language Models: A Multidimensional Evaluation of Performance (Poster).
+      Kempner Institute Spring into Science,
+      Boston, MA.
+    </div>
+  <br />
+<div style="padding: 0 24px;">
+  <div class="publications">
+    <div class="publication">
+      Balasus, N., D.J. Jacob, <strong>G. Maxemin</strong>, C. Jenks, H. Nesser, J.D. Maasakkers, D.H. Cusworth, T.R. Scarpelli, D.J. Varon, and X. Wang (2024).
+      Satellite monitoring of annual US landfill methane emissions and trends (Oral).
+      AGU Annual Meeting,
+      Washington, DC.
+    </div>
+  <br />
+<div style="padding: 0 24px;">
+  <div class="publications">
+    <div class="publication">
+      <strong>Maxemin, G.</strong>, N. Balasus, D.J. Jacob (2024).
+      Quantifying US landfill methane emissions using TROPOMI+GOSAT satellite data (Oral).
+      Harvard University Department of Earth and Planetary Sciences,
+      Cambridge, MA.
+    </div>
+  <br />
+<div style="padding: 0 24px;">
+  <div class="publications">
+    <div class="publication">
+      <strong>Maxemin, G.</strong>, N. Balasus, D.J. Jacob (2024).
+      Quantifying US landfill methane emissions using TROPOMI+GOSAT satellite data (Oral).
+      Harvard Latin Thesis Forum,
+      Cambridge, MA.
+    </div>
+  <br />
+<div style="padding: 0 24px;">
+  <div class="publications">
+    <div class="publication">
+      <strong>Maxemin, G.</strong>, N. Balasus, D.J. Jacob (2024).
+      Quantifying US landfill methane emissions using TROPOMI+GOSAT satellite data (Oral).
+      Harvard Lowell House 3 Minute Thesis,
+      Cambridge, MA.
+    </div>
+  <br />
+<div style="padding: 0 24px;">
+  <div class="publications">
+    <div class="publication">
+      Fu, R., P. Thaler, <strong>G. Maxemin</strong>, S. Steele, P.R. Heck (2024).
+      A Strongly Magnetic Sub-Region of the Solar Nebula Defined by the CM, CO, and CV Chondrites (Oral).
+      55th Lunar and Planetary Science Conference,
+      The Woodlands, TX.
+    </div>
+  <br />
+<div style="padding: 0 24px;">
+  <div class="publications">
+    <div class="publication">
+      Fu, R., P. Thaler, <strong>G. Maxemin</strong>, S. Steele, H. Fu (2023).
+      Solar nebula magnetic fields recorded in chondrules from the Murchison CM chondrite (Poster).
+      AGU Annual Meeting,
+      San Francisco, CA.
+    </div>
+  <br />
+<div style="padding: 0 24px;">
+  <div class="publications">
+    <div class="publication">
+      <strong>Maxemin, G.</strong>, N. Balasus, D.J. Jacob (2023).
+      Quantifying US landfill methane emissions using TROPOMI+GOSAT satellite data (Poster).
+      Harvard University Department of Earth and Planetary Sciences,
+      Cambridge, MA.
+    </div>
+  <br />
+<div style="padding: 0 24px;">
+  <div class="publications">
+    <div class="publication">
+      <strong>Maxemin, G.</strong>, R. Fu, S. Steele, H. Fu (2022).
+      What the Murchison meteorite reveals about magnetic fields in the solar system’s protoplanetary disk formation (Oral).
+      Center for Astrophysics | Harvard & Smithsonian,
+      Cambridge, MA.
+    </div>
+  <br />
+<div style="padding: 0 24px;">
+  <div class="publications">
+    <div class="publication">
+      <strong>Maxemin, G.</strong>, R. Fu (2022).
+      Magnetic mapping of iron oxides in the human brain using the quantum diamond microscope (Oral).
+      Harvard Summer Undergraduate Research Village,
+      Cambridge, MA.
+    </div>
+  <br />
+<br />
