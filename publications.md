@@ -103,8 +103,6 @@ permalink: /publications
       New Orleans, LA.
     </div>
   <br />
-<div style="padding: 0 24px;">
-  <div class="publications">
     <div class="publication">
       Vasquez, Xavier, H. Shen, <strong>G. Maxemin</strong>, H. Kidanemariam, and Elani H.W. (2025).
       Algorithmic Fairness in Large Language Models: A Multidimensional Evaluation of Performance (Poster).
@@ -112,8 +110,6 @@ permalink: /publications
       Boston, MA.
     </div>
   <br />
-<div style="padding: 0 24px;">
-  <div class="publications">
     <div class="publication">
       Balasus, N., D.J. Jacob, <strong>G. Maxemin</strong>, C. Jenks, H. Nesser, J.D. Maasakkers, D.H. Cusworth, T.R. Scarpelli, D.J. Varon, and X. Wang (2024).
       Satellite monitoring of annual US landfill methane emissions and trends (Oral).
@@ -121,8 +117,6 @@ permalink: /publications
       Washington, DC.
     </div>
   <br />
-<div style="padding: 0 24px;">
-  <div class="publications">
     <div class="publication">
       <strong>Maxemin, G.</strong>, N. Balasus, D.J. Jacob (2024).
       Quantifying US landfill methane emissions using TROPOMI+GOSAT satellite data (Oral).
@@ -130,8 +124,6 @@ permalink: /publications
       Cambridge, MA.
     </div>
   <br />
-<div style="padding: 0 24px;">
-  <div class="publications">
     <div class="publication">
       <strong>Maxemin, G.</strong>, N. Balasus, D.J. Jacob (2024).
       Quantifying US landfill methane emissions using TROPOMI+GOSAT satellite data (Oral).
@@ -139,8 +131,6 @@ permalink: /publications
       Cambridge, MA.
     </div>
   <br />
-<div style="padding: 0 24px;">
-  <div class="publications">
     <div class="publication">
       <strong>Maxemin, G.</strong>, N. Balasus, D.J. Jacob (2024).
       Quantifying US landfill methane emissions using TROPOMI+GOSAT satellite data (Oral).
@@ -148,8 +138,6 @@ permalink: /publications
       Cambridge, MA.
     </div>
   <br />
-<div style="padding: 0 24px;">
-  <div class="publications">
     <div class="publication">
       Fu, R., P. Thaler, <strong>G. Maxemin</strong>, S. Steele, P.R. Heck (2024).
       A Strongly Magnetic Sub-Region of the Solar Nebula Defined by the CM, CO, and CV Chondrites (Oral).
@@ -157,8 +145,6 @@ permalink: /publications
       The Woodlands, TX.
     </div>
   <br />
-<div style="padding: 0 24px;">
-  <div class="publications">
     <div class="publication">
       Fu, R., P. Thaler, <strong>G. Maxemin</strong>, S. Steele, H. Fu (2023).
       Solar nebula magnetic fields recorded in chondrules from the Murchison CM chondrite (Poster).
@@ -166,8 +152,6 @@ permalink: /publications
       San Francisco, CA.
     </div>
   <br />
-<div style="padding: 0 24px;">
-  <div class="publications">
     <div class="publication">
       <strong>Maxemin, G.</strong>, N. Balasus, D.J. Jacob (2023).
       Quantifying US landfill methane emissions using TROPOMI+GOSAT satellite data (Poster).
@@ -175,8 +159,6 @@ permalink: /publications
       Cambridge, MA.
     </div>
   <br />
-<div style="padding: 0 24px;">
-  <div class="publications">
     <div class="publication">
       <strong>Maxemin, G.</strong>, R. Fu, S. Steele, H. Fu (2022).
       What the Murchison meteorite reveals about magnetic fields in the solar system’s protoplanetary disk formation (Oral).
@@ -184,8 +166,6 @@ permalink: /publications
       Cambridge, MA.
     </div>
   <br />
-<div style="padding: 0 24px;">
-  <div class="publications">
     <div class="publication">
       <strong>Maxemin, G.</strong>, R. Fu (2022).
       Magnetic mapping of iron oxides in the human brain using the quantum diamond microscope (Oral).
