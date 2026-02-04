@@ -12,7 +12,7 @@ permalink: /education
     <img
       src="images/oxford.png"
       alt="University of Oxford logo"
-      style="height: 48px; width: auto;"
+      style="height: 72px; width: auto;"
     />
   </div>
 
@@ -32,7 +32,7 @@ permalink: /education
     <img
       src="images/harvard.png"
       alt="Harvard University logo"
-      style="height: 48px; width: auto;"
+      style="height: 72px; width: auto;"
     />
   </div>
 
