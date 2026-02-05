@@ -93,7 +93,7 @@ permalink: /activities
 <div style="padding: 0 24px;">
   <div class="activities">
     <div class="activities">
-      <div><strong>First-Generation/Low-Income Co-Chair</strong></div>
+      <div><strong>First-Generation/Low-Income Board Co-Chair</strong></div>
       <div>Harvard University</div>
       <div>2023 - 2024</div>
     </div>
