@@ -18,7 +18,7 @@ permalink: /publications
       Kaub, L., S.A. Gilder, R.R. Fu, B.A. Maher, <strong>G. Maxemin</strong>, A.T. Kuan,
       A. Büttner, S. Milz, and C. Schmitz (2026).
       Magnetic dipole imaging of magnetite nanoparticles in brain tissue.
-      RSC Advances,
+      <i>RSC Advances</i>,
       <a href="https://doi.org/10.1039/d5ra08546b">https://doi.org/10.1039/d5ra08546b</a>.
     </div>
   <br />
@@ -26,7 +26,7 @@ permalink: /publications
       Balasus, N., D.J. Jacob, <strong>G. Maxemin</strong>, C. Jenks, H. Nesser,
       J.D. Maasakkers, D.H. Cusworth, T.R. Scarpelli, D.J. Varon, and X. Wang (2025).
       Satellite monitoring of annual US landfill methane emissions and trends.
-      Environ. Res. Lett.,
+      <i>Environmental Research Letters</i>,
       <a href="https://doi.org/10.1088/1748-9326/ada2b1">https://doi.org/10.1088/1748-9326/ada2b1</a>.
     </div>
   <br />
@@ -41,7 +41,7 @@ permalink: /publications
       F. Prada, E.F. Schlafly, R.M. Sharples, G. Tarlé, Y.S. Ting (丁源森),
       L. Tyas, M. Valluri, R.H. Wechsler, and H. Zou (2023).
       DESI Observations of the Andromeda Galaxy: Revealing the Immigration History of Our Nearest Neighbor.
-      The Astrophysical Journal,
+      <i>The Astrophysical Journal</i>,
       <a href="https://doi.org/10.3847/1538-4357/aca5f8">https://doi.org/10.3847/1538-4357/aca5f8</a>.
     </div>
   </div>
@@ -58,7 +58,7 @@ permalink: /publications
     <div class="publication">
       <strong>Maxemin, G.</strong>, N. Balasus, D.J. Jacob (2024).
       Quantifying US landfill methane emissions using TROPOMI+GOSAT satellite data (Senior Thesis).
-      Harvard University, Department of Earth and Planetary Sciences,
+      <i>Harvard University Department of Earth and Planetary Sciences</i>,
       <a href="pdfs/maxemin_senior_thesis.pdf">PDF</a>.
     </div>
   </div>
@@ -67,7 +67,7 @@ permalink: /publications
     <div class="publication">
       <strong>Maxemin, G.</strong>, R. Fu, S. Steele, H. Fu (2022).
       What the Murchison meteorite reveals about magnetic fields in the solar system’s protoplanetary disk formation (Junior Thesis).
-      Harvard University, Department of Astronomy,
+      <i>Harvard University Department of Astronomy</i>,
       <a href="pdfs/maxemin_junior_thesis.pdf">PDF</a>.
     </div>
   </div>
@@ -83,8 +83,9 @@ permalink: /publications
     <div class="publication">
       <strong>Maxemin, G.</strong>, R. Fu (2022).
       Magnetic mapping of iron oxides in the human brain using the quantum diamond microscope.
-      In HSURV Abstracts (Environmental Sciences chapter). Harvard University,
-       <a href="pdfs/hsurv_2022_abstracts.pdf">PDF</a>.
+      <i>In HSURV Abstracts (Environmental Sciences chapter)</i>.
+      Harvard University,
+      <a href="pdfs/hsurv_2022_abstracts.pdf">PDF</a>.
     </div>
   </div>
 </div>
@@ -99,77 +100,77 @@ permalink: /publications
     <div class="publication">
       Scarpelli, T.R., <strong>G. Maxemin</strong>, D.H. Cusworth, R. Duren, D. Bon, J. Kim, and R. Wang (2025).
       Improving source attribution within national to regional methane budgets using facility-level data and hyperspectral imaging spectrometers (Poster).
-      AGU Annual Meeting,
+      <i>AGU Annual Meeting</i>,
       New Orleans, LA.
     </div>
   <br />
     <div class="publication">
       Vasquez, Xavier, H. Shen, <strong>G. Maxemin</strong>, H. Kidanemariam, and Elani H.W. (2025).
       Algorithmic Fairness in Large Language Models: A Multidimensional Evaluation of Performance (Poster).
-      Kempner Institute Spring into Science,
+      <i>Kempner Institute Spring into Science</i>,
       Boston, MA.
     </div>
   <br />
     <div class="publication">
       Balasus, N., D.J. Jacob, <strong>G. Maxemin</strong>, C. Jenks, H. Nesser, J.D. Maasakkers, D.H. Cusworth, T.R. Scarpelli, D.J. Varon, and X. Wang (2024).
       Satellite monitoring of annual US landfill methane emissions and trends (Oral).
-      AGU Annual Meeting,
+      <i>AGU Annual Meeting</i>,
       Washington, DC.
     </div>
   <br />
     <div class="publication">
       <strong>Maxemin, G.</strong>, N. Balasus, D.J. Jacob (2024).
       Quantifying US landfill methane emissions using TROPOMI+GOSAT satellite data (Oral).
-      Harvard University Department of Earth and Planetary Sciences,
+      <i>Harvard University Department of Earth and Planetary Sciences</i>,
       Cambridge, MA.
     </div>
   <br />
     <div class="publication">
       <strong>Maxemin, G.</strong>, N. Balasus, D.J. Jacob (2024).
       Quantifying US landfill methane emissions using TROPOMI+GOSAT satellite data (Oral).
-      Harvard Latin Thesis Forum,
+      <i>Harvard Latin Thesis Forum</i>,
       Cambridge, MA.
     </div>
   <br />
     <div class="publication">
       <strong>Maxemin, G.</strong>, N. Balasus, D.J. Jacob (2024).
       Quantifying US landfill methane emissions using TROPOMI+GOSAT satellite data (Oral).
-      Harvard Lowell House 3 Minute Thesis,
+      <i>Harvard Lowell House 3 Minute Thesis</i>,
       Cambridge, MA.
     </div>
   <br />
     <div class="publication">
       Fu, R., P. Thaler, <strong>G. Maxemin</strong>, S. Steele, P.R. Heck (2024).
       A Strongly Magnetic Sub-Region of the Solar Nebula Defined by the CM, CO, and CV Chondrites (Oral).
-      55th Lunar and Planetary Science Conference,
+      <i>55th Lunar and Planetary Science Conference</i>,
       The Woodlands, TX.
     </div>
   <br />
     <div class="publication">
       Fu, R., P. Thaler, <strong>G. Maxemin</strong>, S. Steele, H. Fu (2023).
       Solar nebula magnetic fields recorded in chondrules from the Murchison CM chondrite (Poster).
-      AGU Annual Meeting,
+      <i>AGU Annual Meeting</i>,
       San Francisco, CA.
     </div>
   <br />
     <div class="publication">
       <strong>Maxemin, G.</strong>, N. Balasus, D.J. Jacob (2023).
       Quantifying US landfill methane emissions using TROPOMI+GOSAT satellite data (Poster).
-      Harvard University Department of Earth and Planetary Sciences,
+      <i>Harvard University Department of Earth and Planetary Sciences</i>,
       Cambridge, MA.
     </div>
   <br />
     <div class="publication">
       <strong>Maxemin, G.</strong>, R. Fu, S. Steele, H. Fu (2022).
       What the Murchison meteorite reveals about magnetic fields in the solar system’s protoplanetary disk formation (Oral).
-      Center for Astrophysics | Harvard & Smithsonian,
+      <i>Center for Astrophysics | Harvard & Smithsonian</i>,
       Cambridge, MA.
     </div>
   <br />
     <div class="publication">
       <strong>Maxemin, G.</strong>, R. Fu (2022).
       Magnetic mapping of iron oxides in the human brain using the quantum diamond microscope (Oral).
-      Harvard Summer Undergraduate Research Village,
+      <i>Harvard Summer Undergraduate Research Village</i>,
       Cambridge, MA.
     </div>
   </div>
