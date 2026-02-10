@@ -176,3 +176,28 @@ permalink: /publications
   </div>
 </div>
 <br />
+
+<!--
+## Media
+<br />
+
+<div style="padding: 0 24px;">
+  <div class="publications">
+    <div class="publication">
+      Summer in Japan 2025.
+      <a href="https://summerinjapan.com/en/archives/24640">Instructor Profile</a>.
+    </div>
+  <br />
+    <div class="publication">
+      Harvard School of Dental Medicine (2024)
+      <i> Harvard Dental, Fall 2024 / Volume 84, Number 2</i>,
+      pp. 18–19. 
+      Harvard School of Dental Medicine.
+      <a href="hvd_magazine_fall2024_issue_lr.png">PDF</a>.
+    </div>
+  <br />
+
+
+<br />
+
+-->
