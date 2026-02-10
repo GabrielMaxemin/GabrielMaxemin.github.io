@@ -14,7 +14,7 @@ permalink: /activities
 <div style="padding: 0 24px;">
   <div class="activities">
     <div class="activities">
-      <div><strong><a href="https://www.clarendonscholarsassociation.co.uk/2025-26-council-members">Vice President</a></strong></div>
+      <div><strong><a href="https://www.clarendonscholarsassociation.co.uk/2025-26-council-members" class="title-link">Vice President</a></strong></div>
       <div>University of Oxford</div>
       <div>Jan 2026 - Present</div>
     </div>
