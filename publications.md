@@ -193,11 +193,23 @@ permalink: /publications
       <i> Harvard Dental, Fall 2024 / Volume 84, Number 2</i>,
       pp. 18–19. 
       Harvard School of Dental Medicine.
-      <a href="hvd_magazine_fall2024_issue_lr.png">PDF</a>.
+      <a href="pdfs/hvd_magazine_fall2024_issue_lr.png">PDF</a>.
     </div>
   <br />
-
-
+    <div class="publication">
+      President Inc. (2025) ファミリー春号「わが子が輝く 受験『勝ち組』ガイド」発売です！ [Blog post]. 
+      <i>プレジデントファミリー 編集部日記</i>,
+      p. 28.
+      <a href="https://www.president.co.jp/family/blog/diary/5571/5572/">https://www.president.co.jp/family/blog/diary/5571/5572/</a>.
+    </div>
+  <br />
+  <div class="publications">
+    <div class="publication">
+      Summer in Japan 2024.
+      <a href="https://summerinjapan.com/archives/18781">Instructor Profile</a>.
+    </div>
+  <br />
+  
 <br />
 
 -->
