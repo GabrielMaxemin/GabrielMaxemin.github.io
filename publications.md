@@ -197,6 +197,15 @@ permalink: /publications
     </div>
   <br />
     <div class="publication">
+      Tackling algorithmic bias in dentistry.
+      Harvard School of Dental Medicine (2024) [News article]. 
+      <i>Harvard School of Dental Medicine</i>.
+      <a href="https://www.hsdm.harvard.edu/news/2024/11/tackling-algorithmic-bias-dentistry">
+        https://www.hsdm.harvard.edu/news/2024/11/tackling-algorithmic-bias-dentistry
+      </a>.
+    </div>
+  <br />
+    <div class="publication">
       President Inc. (2025) ファミリー春号「わが子が輝く 受験『勝ち組』ガイド」発売です！ [Blog post]. 
       <i>プレジデントファミリー 編集部日記</i>,
       p. 28.
