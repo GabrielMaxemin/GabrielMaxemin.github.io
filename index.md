@@ -16,3 +16,5 @@ permalink: /
 <br />
 <a href="https://www.climate.ox.ac.uk/people/gabriel-maxemin">oxford climate research network profile</a>
 <br />
+<a href="https://www.clarendonscholarsassociation.co.uk/gabriel-maxemin">clarendon council profile</a>
+<br />
