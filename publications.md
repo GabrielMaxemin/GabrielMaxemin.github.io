@@ -92,12 +92,19 @@ permalink: /publications
 
 <br />
 
-## Presentations
+## Presentations 
 <br />
 
 <div style="padding: 0 24px;">
   <div class="publications">
     <div class="publication">
+      <strong>Maxemin, G.</strong> (2026).
+      Seeing Emissions from Space: Landfills, Fires, and Atmospheric Impacts (Oral).
+      <i>Oxford Physics Out Thinkers</i>,
+      Oxford, UK.
+    </div>
+  <br />
+      <div class="publication">
       Scarpelli, T.R., <strong>G. Maxemin</strong>, D.H. Cusworth, R. Duren, D. Bon, J. Kim, and R. Wang (2025).
       Improving source attribution within national to regional methane budgets using facility-level data and hyperspectral imaging spectrometers (Poster).
       <i>AGU Annual Meeting</i>,
