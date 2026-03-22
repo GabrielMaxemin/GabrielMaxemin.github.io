@@ -79,6 +79,7 @@ permalink: /activities
   <div class="activities">
     <div class="activities">
       <div><strong>Outreach Intern</strong></div>
+      <div>Mexico City, Mexico</div>
       <div>Jan 2024</div>
     </div>
   </div>
