@@ -39,7 +39,7 @@ permalink: /activities
 
 <br />
 
-## DHS College Workshop
+## College & Resumé Workshop
 
 <br />
 
