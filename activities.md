@@ -55,6 +55,22 @@ permalink: /activities
 
 <br />
 
+## Learn with Leaders
+
+<br />
+
+<div style="padding: 0 24px;">
+  <div class="activities">
+    <div class="activities">
+      <div><strong>Workshop Leader</strong></div>
+      <div>Shiv Nadar School - Faridabad, Haryana, India</div>
+      <div>Apr 2025</div>
+    </div>
+  </div>
+</div>
+
+<br />
+
 ## Clubes de Ciencia México
 
 <br />
