@@ -3,7 +3,7 @@ layout: default
 title: Home
 permalink: /
 ---
-## welcome to my page 😁
+## welcome to my page 🙂
 
 <br />
 <a href="mailto:gabrielmaxemin@gmail.com">email</a>
