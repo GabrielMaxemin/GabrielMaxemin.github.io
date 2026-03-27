@@ -120,7 +120,7 @@ permalink: /publications
     </div>
   <br />
     <div class="publication">
-      Vasquez, Xavier, H. Shen, <strong>G. Maxemin</strong>, H. Kidanemariam, and Elani H.W. (2025).
+      Vasquez, X., H. Shen, <strong>G. Maxemin</strong>, H. Kidanemariam, and Elani H.W. (2025).
       Algorithmic Fairness in Large Language Models: A Multidimensional Evaluation of Performance (Poster).
       <i>Kempner Institute Spring into Science</i>,
       Boston, MA.
