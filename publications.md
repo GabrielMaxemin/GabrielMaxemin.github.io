@@ -98,6 +98,14 @@ permalink: /publications
 <div style="padding: 0 24px;">
   <div class="publications">
     <div class="publication">
+      <strong>Maxemin, G.</strong>, A. Dudhia, R.G. Grainger (2026).
+      Smouldering Combustion from Biomass Burning in the Tropics (Poster).
+      <i>Oxford Earth Observation Forum</i>,
+      Oxford, UK.
+    </div>
+  <br />
+  <div class="publications">
+    <div class="publication">
       <strong>Maxemin, G.</strong> (2026).
       Seeing Emissions from Space: Landfills, Fires, and Atmospheric Impacts (Oral).
       <i>Oxford Physics Out Thinkers</i>,
