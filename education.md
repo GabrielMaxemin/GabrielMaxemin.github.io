@@ -19,7 +19,7 @@ permalink: /education
   <div>
     <strong>UNIVERSITY OF OXFORD</strong><br />
     <div>[2025 – Present]</div>
-    <em>DPhil Student in Atmospheric, Oceanic, and Planetary Physics</em><br />
+    <em>DPhil Student in Atmospheric, Oceanic and Planetary Physics</em><br />
     <div>Earth Observation Data Group</div>
     <div>Clarendon Scholar</div>
   </div>
