@@ -1,7 +1,7 @@
 ---
 layout: default
-title: research
-permalink: /research
+title: research_v2
+permalink: /research_v2
 ---
 
 # research
