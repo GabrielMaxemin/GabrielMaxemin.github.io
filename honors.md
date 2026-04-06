@@ -78,6 +78,16 @@ permalink: /honors
 </p>
 
 <p>
+  <strong>QuestBridge National College Match Finalist</strong>
+  <span style="color: #6b7280;">(2019 – 2020)</span>
+</p>
+
+<p>
+  <strong>QuestBridge College Prep Scholar</strong>
+  <span style="color: #6b7280;">(2019)</span>
+</p>
+
+<p>
   <strong>Carson Scholar</strong>
   <span style="color: #6b7280;">(2019)</span>
 </p>
