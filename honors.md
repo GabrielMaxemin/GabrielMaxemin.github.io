@@ -18,7 +18,7 @@ permalink: /honors
 </p>
 
 <p>
-  <strong>Thalmann Fund</strong>
+  <strong>Thalmann Scholarship Fund</strong>
   <span style="color: #6b7280;">(2025 – Present)</span>
 </p>
 
