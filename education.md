@@ -38,7 +38,7 @@ permalink: /education
 
   <div>
     <strong>HARVARD UNIVERSITY</strong><br />
-    <div>[2020 - 2024]</div>
+    <div>[2020 – 2024]</div>
     <em>A.B. Joint Concentration in Chemistry & Physics, Earth & Planetary Sciences</em><br />
     <div>Secondary in Astrophysics</div>
     <div>
