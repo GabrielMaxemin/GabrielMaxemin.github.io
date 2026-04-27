@@ -61,9 +61,7 @@ permalink: /publications
       <i>Harvard University Department of Earth and Planetary Sciences</i>,
       <a href="pdfs/maxemin_senior_thesis.pdf">PDF</a>.
     </div>
-  </div>
   <br />
-  <div class="publications">
     <div class="publication">
       <strong>Maxemin, G.</strong>, R. Fu, S. Steele, H. Fu (2022).
       What the Murchison meteorite reveals about magnetic fields in the solar system’s protoplanetary disk formation (Junior Thesis).
