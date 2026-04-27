@@ -192,11 +192,17 @@ permalink: /publications
 </div>
 <br />
 
-<!--
 ## Media
 <br />
 
 <div style="padding: 0 24px;">
+  <div class="publications">
+    <div class="publication">
+      Meet a Wolfson Scholar: Gabriel Maxemin.
+      <i>Wolfson College, University of Oxford</i>.
+      <a href="https://www.wolfson.ox.ac.uk/news/meet-a-wolfson-scholar-gabriel-maxemin/">https://www.wolfson.ox.ac.uk/news/meet-a-wolfson-scholar-gabriel-maxemin/</a>.
+    </div>
+  <br />
   <div class="publications">
     <div class="publication">
       Summer in Japan 2025.
@@ -236,4 +242,5 @@ permalink: /publications
   
 <br />
 
+<!--
 -->
