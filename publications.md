@@ -242,6 +242,3 @@ permalink: /publications
 </div>
   
 <br />
-
-<!--
--->
