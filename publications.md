@@ -104,7 +104,6 @@ permalink: /publications
       Oxford, UK.
     </div>
   <br />
-  <div class="publications">
     <div class="publication">
       <strong>Maxemin, G.</strong> (2026).
       Seeing Emissions from Space: Landfills, Fires, and Atmospheric Impacts (Oral).
