@@ -203,7 +203,6 @@ permalink: /publications
       <a href="https://www.wolfson.ox.ac.uk/news/meet-a-wolfson-scholar-gabriel-maxemin/">Article Feature</a>.
     </div>
   <br />
-  <div class="publications">
     <div class="publication">
       Summer in Japan 2025.
       <a href="https://summerinjapan.com/en/archives/24640">Instructor Profile</a>.
@@ -233,7 +232,6 @@ permalink: /publications
       <a href="https://www.president.co.jp/family/blog/diary/5571/5572/">Magazine Feature</a>.
     </div>
   <br />
-  <div class="publications">
     <div class="publication">
       Summer in Japan 2024.
       <a href="https://summerinjapan.com/archives/18781">Instructor Profile</a>.
