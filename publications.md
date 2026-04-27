@@ -238,7 +238,8 @@ permalink: /publications
       Summer in Japan 2024.
       <a href="https://summerinjapan.com/archives/18781">Instructor Profile</a>.
     </div>
-  <br />
+  </div>
+</div>
   
 <br />
 
