@@ -200,7 +200,7 @@ permalink: /publications
     <div class="publication">
       Meet a Wolfson Scholar: Gabriel Maxemin.
       <i>Wolfson College, University of Oxford</i>.
-      <a href="https://www.wolfson.ox.ac.uk/news/meet-a-wolfson-scholar-gabriel-maxemin/">https://www.wolfson.ox.ac.uk/news/meet-a-wolfson-scholar-gabriel-maxemin/</a>.
+      <a href="https://www.wolfson.ox.ac.uk/news/meet-a-wolfson-scholar-gabriel-maxemin/">Article Feature</a>.
     </div>
   <br />
   <div class="publications">
@@ -222,7 +222,7 @@ permalink: /publications
       Harvard School of Dental Medicine (2024) [News article]. 
       <i>Harvard School of Dental Medicine</i>.
       <a href="https://www.hsdm.harvard.edu/news/2024/11/tackling-algorithmic-bias-dentistry">
-        https://www.hsdm.harvard.edu/news/2024/11/tackling-algorithmic-bias-dentistry
+        Magazine Feature
       </a>.
     </div>
   <br />
@@ -230,7 +230,7 @@ permalink: /publications
       President Inc. (2025) ファミリー春号「わが子が輝く 受験『勝ち組』ガイド」発売です！ [Blog post]. 
       <i>プレジデントファミリー 編集部日記</i>,
       p. 28.
-      <a href="https://www.president.co.jp/family/blog/diary/5571/5572/">https://www.president.co.jp/family/blog/diary/5571/5572/</a>.
+      <a href="https://www.president.co.jp/family/blog/diary/5571/5572/">Magazine Feature</a>.
     </div>
   <br />
   <div class="publications">
