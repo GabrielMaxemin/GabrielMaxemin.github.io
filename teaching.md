@@ -17,7 +17,7 @@ permalink: /teaching
       <div><strong>Physics Lab Demonstrator</strong></div>
       <div>University of Oxford, Department of Physics</div>
       <div>May 2026  – Present</div>
-      <div>Physics Teaching Laboratories</div>
+      <div>Physics of Atmospheres and Oceans</div>
     </div>
   </div>
 </div>
