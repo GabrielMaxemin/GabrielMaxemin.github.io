@@ -14,9 +14,22 @@ permalink: /teaching
 <div style="padding: 0 24px;">
   <div class="teaching">
     <div class="teaching">
+      <div><strong>Physics Lab Demonstrator</strong></div>
+      <div>University of Oxford, Department of Physics</div>
+      <div>May 2026  – Present</div>
+      <div>Physics Teaching Laboratories</div>
+    </div>
+  </div>
+</div>
+
+<br />
+
+<div style="padding: 0 24px;">
+  <div class="teaching">
+    <div class="teaching">
       <div><strong>Colloquium Facilitator</strong></div>
       <div>University of Oxford, Oxford Lifelong Learning</div>
-      <div>Dec 2025  – Present</div>
+      <div>Dec 2025  – Mar 2026</div>
       <div>Vice-Chancellor’s Colloquium on Climate</div>
     </div>
   </div>
