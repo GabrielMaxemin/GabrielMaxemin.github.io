@@ -96,6 +96,14 @@ permalink: /publications
 <div style="padding: 0 24px;">
   <div class="publications">
     <div class="publication">
+      <strong>Maxemin, G.</strong> (2026).
+      The Importance of Celebration for Diversity and Belonging (Oral).
+      <i>Rhodes Doing Leadership Roundtable</i>,
+      Oxford, UK.
+    </div>
+  <br />
+  <div class="publications">
+    <div class="publication">
       <strong>Maxemin, G.</strong>, A. Dudhia, R.G. Grainger (2026).
       Smouldering Combustion from Biomass Burning in the Tropics (Poster).
       <i>Oxford Earth Observation Forum</i>,
