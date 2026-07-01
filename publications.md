@@ -102,7 +102,6 @@ permalink: /publications
       Oxford, UK.
     </div>
   <br />
-  <div class="publications">
     <div class="publication">
       <strong>Maxemin, G.</strong>, A. Dudhia, R.G. Grainger (2026).
       Smouldering Combustion from Biomass Burning in the Tropics (Poster).
