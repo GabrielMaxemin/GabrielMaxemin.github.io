@@ -40,6 +40,22 @@ permalink: /activities
 
 <br />
 
+## UNIQplus
+
+<br />
+
+<div style="padding: 0 24px;">
+  <div class="activities">
+    <div class="activities">
+      <div><strong>UNIQplus Research Internship Mentor</strong></div>
+      <div>University of Oxford</div>
+      <div>July - August 2026</div>
+    </div>
+  </div>
+</div>
+
+<br />
+
 ## College & Resumé Workshop
 
 <br />
